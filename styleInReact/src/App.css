@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family:monospace;
+  background-color: peru;
+}
