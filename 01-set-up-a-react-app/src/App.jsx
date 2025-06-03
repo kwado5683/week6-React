@@ -13,7 +13,8 @@ function App(){
         <h1> Hello World!</h1>
         <Bedroom />
         <Bedroom />
-        <Livingroom wallcolor={"green"}/>
+        <Livingroom wallcolor={"green"}  couch={"2"}/>
+        
       </div>
     </>
 
